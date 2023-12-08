@@ -1,5 +1,5 @@
 # ultrasonic-distance-sensor
-A rotating ultrasonic sensor that measures the distance of an object up to 1.5 meters and aduibly beeps with different frequencies when an object is closer than 20cm.
+A rotating ultrasonic sensor that measures the distance of an object up to 1.5 meters and audibly beeps with different frequencies when an object is closer than 20cm.
 
 Parts used:  
 
