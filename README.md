@@ -1,7 +1,8 @@
 # ultrasonic-distance-sensor
 A rotating ultrasonic sensor that measures the distance of an object up to 1.5 meters and aduibly beeps with different frequencies when an object is closer than 20cm.
 
-Parts used:
+Parts used:  
+
 HC-SR04 Ultrasonic sensor  
 
 ULN2003 Stepper Motor Controller  
@@ -17,4 +18,4 @@ B103 348 Joystick
 Arduino Uno  
 
 Custom 3D printed parts  
-     
+
