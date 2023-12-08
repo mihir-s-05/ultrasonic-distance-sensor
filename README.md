@@ -19,3 +19,6 @@ Arduino Uno
 
 Custom 3D printed parts  
 
+Circuit diagram:
+
+![bread_board diagram](https://github.com/mihir-s-05/ultrasonic-distance-sensor/assets/107030526/5b29d216-ee19-4162-b75b-fa706eb853f4)
